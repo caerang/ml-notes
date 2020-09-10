@@ -1,6 +1,6 @@
 ---
 layout: default
-title: document regression algorithms
+title: Regression Algorithms
 nav_order: 4
 has_children: true
 permalink: /docs/regression-algorithms

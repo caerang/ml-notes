@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Linear Regression
-parent: document regression algorithms
+parent: Regression Algorithms
 nav_order: 1
 ---
 
