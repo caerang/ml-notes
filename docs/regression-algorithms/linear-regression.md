@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Convolutional Neural Networks
-parent: document classification
+title: Linear Regression
+parent: document regression algorithms
 nav_order: 1
 ---
 
-# Convolutional Neural Networks
+# Linear Regression
 {: .no_toc }
 
 ## 목차
